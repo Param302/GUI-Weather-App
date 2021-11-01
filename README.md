@@ -3,13 +3,11 @@
 
 A GUI based Weather App made in Python using Tkinter and Matplotlib Library, which shows current day weather and 7-day Weather Forecast with their respective graphs.
 
-
+![Screenshot of Weather App](https://github.com/Param302/GUI-Weather-App/blob/main/previews/weather%20app%20gui.gif)
 
 ## Prerequisites
 - Python 3.10 or higher
 - Pip
-
-![Screenshot of Weather App](https://github.com/Param302/GUI-Weather-App/blob/main/previews/weather%20app%20gui.gif)
 
 ### Modules Required:
 - CountryInfo - 0.1.2
