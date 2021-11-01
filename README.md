@@ -19,7 +19,7 @@ A GUI based Weather App made in Python using Tkinter and Matplotlib Library, whi
 - Tkinter
 - webbrowser
 
-##### To install required modules run following command in terminal (in folder where you have downloaded the project)
+ To install required modules run following command in terminal (in folder where you have downloaded the project)
 ```
 pip install -r requirements.txt
 ```
