@@ -11,7 +11,7 @@ from PIL import Image, ImageTk
 #======================================================| Current Weather |========================================================
 class CurrentWeather:
     
-    _API = "9c97b2a4efe79c6dd02e4f5197e509e2"
+    _API = "YOUR_API_KEY"
 
     with open("./assets/unit.txt") as u:
         _unit = u.read()
