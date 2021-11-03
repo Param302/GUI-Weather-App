@@ -10,20 +10,30 @@ A GUI based Weather App made in Python using Tkinter and Matplotlib Library, whi
 - Pip
 
 ### Modules Required:
-- CountryInfo - 0.1.2
+- CountryInfo (0.1.2v)
 - Datetime
-- Matplotlib - 3.4.3
-- pytz - 2021.3a
-- requests - 2.26
-- Pillow - 8.4
+- Matplotlib (3.4.3v)
+- pytz (2021.3v)
+- Pillow (8.4.0v)
+- requests (2.26.0v)
 - Tkinter
 - webbrowser
 
- To install required modules run following command in terminal (in folder where you have downloaded the project)
+### Setup before run
+- To install required modules run following command in terminal under project folder.
 ```
 pip install -r requirements.txt
 ```
 
 ### APIs
 APIs are used from [openweathermap.org](https://openweathermap.org/)
+- [Current Weather Data API](https://openweathermap.org/current)
+- [One Call API](https://openweathermap.org/api/one-call-api)
 
+### Screenshots
+![Weather App img 1](https://github.com/Param302/GUI-Weather-App/blob/main/previews/small%201.jpg)
+![Weather App img 2](https://github.com/Param302/GUI-Weather-App/blob/main/previews/big%201.jpg)
+![Weather App img 3](https://github.com/Param302/GUI-Weather-App/blob/main/previews/big%203.jpg)
+![Weather App img 4](https://github.com/Param302/GUI-Weather-App/blob/main/previews/small%203.jpg)
+![Weather App img 5](https://github.com/Param302/GUI-Weather-App/blob/main/previews/info%202.JPG)
+![Weather App img 6](https://github.com/Param302/GUI-Weather-App/blob/main/previews/settings%202.JPG)
