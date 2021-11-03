@@ -24,6 +24,10 @@ A GUI based Weather App made in Python using Tkinter and Matplotlib Library, whi
 ```
 pip install -r requirements.txt
 ```
+- run main.py
+```
+python main.py
+```
 
 ### APIs
 APIs are used from [openweathermap.org](https://openweathermap.org/)
@@ -35,5 +39,5 @@ APIs are used from [openweathermap.org](https://openweathermap.org/)
 ![Weather App img 2](https://github.com/Param302/GUI-Weather-App/blob/main/previews/big%201.jpg)
 ![Weather App img 3](https://github.com/Param302/GUI-Weather-App/blob/main/previews/big%203.jpg)
 ![Weather App img 4](https://github.com/Param302/GUI-Weather-App/blob/main/previews/small%203.jpg)
-![Weather App img 5](https://github.com/Param302/GUI-Weather-App/blob/main/previews/info%202.JPG)
-![Weather App img 6](https://github.com/Param302/GUI-Weather-App/blob/main/previews/settings%202.JPG)
+![Weather App img 5](https://github.com/Param302/GUI-Weather-App/blob/main/previews/info%203.jpg)
+![Weather App img 6](https://github.com/Param302/GUI-Weather-App/blob/main/previews/settings%20unit%20changed.jpg)
