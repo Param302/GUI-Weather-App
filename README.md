@@ -19,6 +19,11 @@ A GUI based Weather App made in Python using Tkinter and Matplotlib Library, whi
 - Tkinter
 - webbrowser
 
+### Clone this repository
+```
+git clone https://github.com/Param302/GUI-Weather-App.git
+```
+
 ### Setup before run
 - To install required modules run following command in terminal under project folder.
 ```
