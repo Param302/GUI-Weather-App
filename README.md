@@ -9,7 +9,7 @@ A GUI based Weather App made in Python using Tkinter and Matplotlib Library, whi
 - Python 3.10 or higher
 - Pip
 
-### Modules Required:
+### Modules used:
 - CountryInfo (0.1.2v)
 - Datetime
 - Matplotlib (3.4.3v)
@@ -19,12 +19,12 @@ A GUI based Weather App made in Python using Tkinter and Matplotlib Library, whi
 - Tkinter
 - webbrowser
 
-### Clone this repository
+## Clone this repository
 ```
 git clone https://github.com/Param302/GUI-Weather-App.git
 ```
 
-### Setup before run
+## Setup before run
 - To install required modules run following command in terminal under project folder.
 ```
 pip install -r requirements.txt
@@ -34,12 +34,12 @@ pip install -r requirements.txt
 python main.py
 ```
 
-### APIs
+## APIs
 APIs are used from [openweathermap.org](https://openweathermap.org/)
 - [Current Weather Data API](https://openweathermap.org/current)
 - [One Call API](https://openweathermap.org/api/one-call-api)
 
-### Screenshots
+## Screenshots
 ![Weather App img 1](https://github.com/Param302/GUI-Weather-App/blob/main/previews/small%201.jpg)
 ![Weather App img 2](https://github.com/Param302/GUI-Weather-App/blob/main/previews/big%201.jpg)
 ![Weather App img 3](https://github.com/Param302/GUI-Weather-App/blob/main/previews/small%202.jpg)
